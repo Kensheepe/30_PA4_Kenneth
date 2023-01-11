@@ -1,0 +1,9 @@
+unit testing
+What is unit testing?
+Unit testing is conducted by 
+It is a type of whitebox testing
+
+Integration Testing
+what is integration testing?
+integration testing is conducted by
+It is a type of blackbox testing
